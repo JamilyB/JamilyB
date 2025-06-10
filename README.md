@@ -9,6 +9,22 @@
   <h2>🌟 Projetos</h2>
 </div>
 
+<style>
+  .tag {
+    display: inline-block;
+    padding: 2px 6px;
+    margin: 2px;
+    font-size: 12px;
+    border-radius: 4px;
+    color: white;
+    font-family: sans-serif;
+  }
+  .react { background-color: #61DBFB; color: #000; }
+  .spring { background-color: #6DB33F; }
+  .postgres { background-color: #336791; }
+  .mysql { background-color: #00758F; }
+</style>
+
 <table align="center">
   <tr>
     <td align="center" width="300">
@@ -16,27 +32,27 @@
       <sub>
         Sistema web para agendamento de tarefas com previsões astrológicas via API.
       </sub><br><br>
-      <span style="background:#e0e0e0; padding:4px; border-radius:5px;">React</span>
-      <span style="background:#e0e0e0; padding:4px; border-radius:5px;">Spring Boot</span>
-      <span style="background:#e0e0e0; padding:4px; border-radius:5px;">PostgreSQL</span>
+      <span class="tag react">React</span>
+      <span class="tag spring">Spring Boot</span>
+      <span class="tag postgres">PostgreSQL</span>
     </td>
     <td align="center" width="300">
       <h3>📒 <a href="https://github.com/JamilyB/agenda-contatos-clientes.git">Gestão de Patrimônio</a></h3>
       <sub>
         Gerenciador web para cadastro de clientes e contatos relacionados.
       </sub><br><br>
-      <span style="background:#e0e0e0; padding:4px; border-radius:5px;">React</span>
-      <span style="background:#e0e0e0; padding:4px; border-radius:5px;">Spring Boot</span>
-      <span style="background:#e0e0e0; padding:4px; border-radius:5px;">MySQL</span>
+      <span class="tag react">React</span>
+      <span class="tag spring">Spring Boot</span>
+      <span class="tag mysql">MySQL</span>
     </td>
     <td align="center" width="300">
       <h3>🍕 <a href="#">CRM Pizza Express</a></h3>
       <sub>
         Sistema CRM para pizzarias com cadastro de clientes e motoboys.
       </sub><br><br>
-      <span style="background:#e0e0e0; padding:4px; border-radius:5px;">React</span>
-      <span style="background:#e0e0e0; padding:4px; border-radius:5px;">Spring Boot</span>
-      <span style="background:#e0e0e0; padding:4px; border-radius:5px;">MySQL</span>
+      <span class="tag react">React</span>
+      <span class="tag spring">Spring Boot</span>
+      <span class="tag mysql">MySQL</span>
     </td>
   </tr>
 </table>
