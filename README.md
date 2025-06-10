@@ -1,22 +1,47 @@
 <div align="center">
 
-# 👩‍💻 Olá! Sou a Jamily, estudante de Análise e Desenvolvimento de Sistemas
+<h2>👋 Olá! Sou a <strong>Jamily</strong></h2>
+<h3>Estudante de Análise e Desenvolvimento de Sistemas</h3>
 
 </div>
 
 ---
 
-### Projetos 
+<div align="center">
 
-- 🔮 [**Task Horoscope**]([https://github.com/JamilyB/task-horoscope](https://github.com/JamilyB/system-task-horoscope.git))  
-  Sistema web para agendamento de tarefas com previsões astrológicas via API.
+<h2>🌟 Projetos</h2>
 
-- 📚 [**Sistema de Gestão de Patrimônio**]([https://github.com/JamilyB/sistema-patrimonio](https://github.com/JamilyB/agenda-contatos-clientes.git))  
-  Gerenciador de contatos web que permite cadastrar clientes e seus respectivos contatos.
-  
-- 🏡 [**CRM Pizaria | Pizza Express**](##)  
-  Sistema de cadastro de clientes e motoboy, com CRM para gerenciar relacionamento entre a pizzaria e cliente.
+</div>
+
+<table align="center">
+  <tr>
+    <td align="center" width="300">
+      <h3>🔮 <a href="https://github.com/JamilyB/system-task-horoscope.git">Task Horoscope</a></h3>
+      <sub>
+        Sistema web para agendamento de tarefas com previsões astrológicas via API.
+      </sub>
+    </td>
+    <td align="center" width="300">
+      <h3>📚 <a href="https://github.com/JamilyB/agenda-contatos-clientes.git">Gestão de Patrimônio</a></h3>
+      <sub>
+        Gerenciador web para cadastro de clientes e contatos relacionados.
+      </sub>
+    </td>
+    <td align="center" width="300">
+      <h3>🏡 <a href="#">CRM Pizza Express</a></h3>
+      <sub>
+        Sistema CRM para pizzarias com cadastro de clientes e motoboys.
+      </sub>
+    </td>
+  </tr>
+</table>
 
 ---
+
+<div align="center">
+
+_Sinta-se à vontade para explorar meus repositórios!💗_
+
+</div>
 
 
