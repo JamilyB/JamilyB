@@ -1,6 +1,6 @@
 <div align="center">
 
-<h2>👋 Olá! Sou a <strong>Jamily</strong></h2>
+<h2>Olá! Sou a <strong>Jamily</strong></h2>
 <h3>Estudante de Análise e Desenvolvimento de Sistemas</h3>
 
 </div>
