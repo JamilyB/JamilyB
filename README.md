@@ -23,7 +23,7 @@
       <code>React</code> <code>Spring Boot</code> <code>PostgreSQL</code>
     </td>
     <td align="center" width="300">
-      <h3>🍕 <a href="[#](https://github.com/JamilyB/system-crm-pizzaria)">CRM Pizza Express</a></h3>
+      <h3>🍕 <a href="https://github.com/JamilyB/system-crm-pizzaria">CRM Pizza Express</a></h3>
       <sub>
         Sistema CRM para pizzarias com cadastro de clientes e motoboys.
       </sub><br><br>
